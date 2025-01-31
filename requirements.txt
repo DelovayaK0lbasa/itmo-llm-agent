@@ -1,1 +1,9 @@
-ECHO is on.
+fastapi
+aiologger[aiofiles]
+pip-chill
+uvicorn
+gunicorn
+huggingface_hub
+bs4
+fake_useragent
+requests
